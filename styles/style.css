@@ -63,7 +63,7 @@ body
 /*------------------------------------------------MAIN----------------------------------------*/
 .main
 {
-    background-image: url("images/back.jpg");
+    background-image: url("../images/back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -193,7 +193,7 @@ join_btn:hover{
 .product
 {
     float:left;
-    background-image: url("images/poor.jpg");
+    background-image: url("../images/poor.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -464,7 +464,7 @@ footer .support a:hover{
 .main_about
 {
     font-family: 'Trebuchet MS', sans-serif;
-    background-image: url("images/about.jpg");
+    background-image: url("../images/about.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -484,7 +484,7 @@ footer .support a:hover{
 .product_about
 {
     float:left;
-    background-image: url("images/about_back.jpg");
+    background-image: url("../images/about_back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -498,7 +498,7 @@ footer .support a:hover{
 .donate
 {
     font-family: 'Trebuchet MS', sans-serif;
-    background-image: url("images/donate_back.jpg");
+    background-image: url("../images/donate_back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -567,7 +567,7 @@ footer .support a:hover{
 {
     padding: 100px;
     font-family: 'Trebuchet MS', sans-serif;
-    background-image: url("images/about_back.jpg");
+    background-image: url("../images/about_back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
